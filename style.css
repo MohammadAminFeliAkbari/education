@@ -1,0 +1,13 @@
+h1{
+    color: red;
+    background-color: aquamarine;
+    padding: 20px;
+}
+div{
+    background: red;
+}
+
+footer{
+    background: red;
+    position: fixed;
+}
